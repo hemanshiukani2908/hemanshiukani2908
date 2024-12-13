@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **hemanshiukani2002@gmail.com**
 
-- ⚡ Fun fact: I can spend hours exploring the world of Python, Machine Learning, AI, and Deep Learning, but I’ve never seen "Game of Thrones"! 🤖📚 **I can spend hours exploring the world of Python, Machine Learning, AI, and Deep Learning, but I’ve never seen "Game of Thrones"! 🤖📚**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanshi-ukani-834b4823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanshi-ukani-834b4823a" height="30" width="40" /></a>
