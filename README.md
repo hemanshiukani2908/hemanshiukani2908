@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Python, Machine Learning, AI, NLP, and Deep Learning 🚀 🚀**
+
+- 🤝 I’m looking for help **with Learning New Technologies and Best Practices**
+
+- 💬 Ask me about **Python, Machine Learning, AI, NLP, Deep Learning, and Open Source Projects 🌟**
+
+- 📫 How to reach me **hemanshiukani2002@gmail.com**
+
+- ⚡ Fun fact: I can spend hours exploring the world of Python, Machine Learning, AI, and Deep Learning, but I’ve never seen "Game of Thrones"! 🤖📚 **I can spend hours exploring the world of Python, Machine Learning, AI, and Deep Learning, but I’ve never seen "Game of Thrones"! 🤖📚**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanshi-ukani-834b4823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanshi-ukani-834b4823a" height="30" width="40" /></a>
@@ -20,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanshiukani2908&show_icons=true&locale=en" alt="hemanshiukani2908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanshiukani2908&" alt="hemanshiukani2908" /></p>
-
