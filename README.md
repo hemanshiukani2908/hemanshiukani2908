@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanshi Ukani</h1>
 <h3 align="center">"A Python Enthusiast Exploring AI, Machine Learning, NLP, and Deep Learning 🌟🤖🚀"</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/81684710/313923375-b74b9e45-202b-4bfd-80d4-23c9706a7903.jpg](https://private-user-images.githubusercontent.com/81684710/313923375-b74b9e45-202b-4bfd-80d4-23c9706a7903.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyNjA3MTEsIm5iZiI6MTczNDI2MDQxMSwicGF0aCI6Ii84MTY4NDcxMC8zMTM5MjMzNzUtYjc0YjllNDUtMjAyYi00YmZkLTgwZDQtMjNjOTcwNmE3OTAzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE1VDExMDAxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyYWY3MGViMzAzYjRiNTE2YjNiNDJlYTJlNjEyNDc0NWM2MzgyNDc0NWQ1ZDNlMDdhNTRiNzQ2MDI2YTUzN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gS59ZhXc9cVIQxqv8hNjgmbRvK8Gypc_STyWxKCyZko">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/8e0de9ec-7720-4791-a3bc-3d64f1eb078c)
+">
 
 
 - 🌱 I’m currently learning **Python, Machine Learning, AI, NLP, and Deep Learning 🚀**
