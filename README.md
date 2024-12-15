@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemanshi Ukani</h1>
 <h3 align="center">"A Python Enthusiast Exploring AI, Machine Learning, NLP, and Deep Learning 🌟🤖🚀"</h3>
-<img align="right" alt="Coding" width="400" src="https://www.dreamstime.com/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-image316974289)](https://private-user-images.githubusercontent.com/81684710/313923375-b74b9e45-202b-4bfd-80d4-23c9706a7903.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxMTMyMjYsIm5iZiI6MTczNDExMjkyNiwicGF0aCI6Ii84MTY4NDcxMC8zMTM5MjMzNzUtYjc0YjllNDUtMjAyYi00YmZkLTgwZDQtMjNjOTcwNmE3OTAzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEzVDE4MDIwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZWQ5YzY1ZjAzYTg4OWU3MGIwNjliYWViMGZkMThkMzU4OGE3YTUzMjgzNTExYzkwNTMyNDcyNzdlYzFhNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GjgpZi25OVrNwoqS7OUe2FqRYEDbf1TluL4ErlpPPJ0">
+<img align="right" alt="Coding" width="400" src="https://www.dreamstime.com/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-image316974289)](https://private-user-images.githubusercontent.com/81684710/313923375-b74b9e45-202b-4bfd-80d4-23c9706a7903.jpg">
 
 
 - 🌱 I’m currently learning **Python, Machine Learning, AI, NLP, and Deep Learning 🚀**
