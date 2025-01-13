@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemanshi Ukani</h1>
 <h3 align="center">"A Python Enthusiast Exploring AI, Machine Learning, NLP, and Deep Learning 🌟🤖🚀"</h3>
-<p> <img src="https://github.com/hemanshiukani2908/hemanshiukani2908/blob/main/github_side_image.webp" align="right" alt="Coding" width="300" height="250"/> </p>
+<p> <img src="https://github.com/hemanshiukani2908/hemanshiukani2908/blob/main/github_side_image.webp" align="right" alt="Coding" width="300" height="280"/> </p>
 
 
 - 🌱 I’m currently learning **Python, Machine Learning, AI, NLP, and Deep Learning 🚀**
